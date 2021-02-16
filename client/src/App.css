@@ -1,0 +1,27 @@
+.app {
+  max-width: 60%;
+  margin: auto;
+}
+
+.price {
+  font-size: 10em;
+  text-align: center;
+}
+
+.priceTime {
+  font-size: 5em;
+  text-align: center;
+}
+
+.title {
+  font-size: 5em;
+  text-align: center;
+}
+
+.up {
+  color: #34a853;
+}
+
+.down {
+  color: #d93025;
+}
